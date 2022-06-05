@@ -1,13 +1,3 @@
-div.wrapper{
-    padding: 20px;
-    border: 2px dotted gray;
-}
-div.wrapper > div.contactInfo > h2{
+.contact-info__sub-header{
     color: blue;
-}
-div.wrapper > div.skills > h2{
-    color: yellow;
-}
-div.wrapper > div.Additional{
-    color: green;
 }
